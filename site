@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>مكتبة أونلاين — متجر الكتب</title>
-  <meta name="description" content="موقع بسيط لبيع الكتب مع بوابة دفع (Stripe Checkout)" />
+  <meta name="description" content="موقع بيع كتب الكترونية (Stripe Checkout)" />
   <style>
     /* === CSS مضمّن (inline) === */
     :root{--bg:#0f172a;--card:#0b1220;--accent:#06b6d4;--muted:#93c5fd}
@@ -42,7 +42,7 @@
       <div class="logo">م</div>
       <div>
         <h1>مكتبة أونلاين</h1>
-        <div style="font-size:13px;color:#9fb7d9">متجر لبيع الكتب — تصميم جاهز للتعديل</div>
+        <div style="font-size:13px;color:#9fb7d9">متجر لبيع الكتب</div>
       </div>
     </div>
     <nav>
@@ -56,7 +56,7 @@
     <section class="hero">
       <div class="info">
         <div class="badge">توصية الموقع</div>
-        <h2 style="margin:8px 0 10px">متجر بسيط وآمن لبيع الكتب — مناسب لبداية مشروعك</h2>
+        <h2 style="margin:8px 0 10px">متجر بسيط وآمن لبيع الكتب</h2>
         <p style="margin:0 0 12px;color:#bcd3f6">هذه الصفحة جاهزة لتعمل كـ“واجهة متجر” لبيع كتب حقيقية. مرفق معها تكامل مع Stripe Checkout (وصف الإعداد في أسفل الصفحة). قم بتغيير التفاصيل، إضافة كتب أكثر، وربط مفتاح Stripe السري في الخادم.</p>
         <div style="display:flex;gap:10px;margin-top:10px">
           <a class="btn" href="#books">تسوق الآن</a>
